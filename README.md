@@ -1,2 +1,2 @@
 обновляется с задержкой, был выбо либо фиксированый стиль либо резиновый, выбрал резиновый. ну еще нет фильтра нет билета)
-https://avia-3n28qtrsc-toni96starkgmailcoms-projects.vercel.app/
+https://avia-eosin.vercel.app/
