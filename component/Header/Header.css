@@ -1,0 +1,36 @@
+.header_position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media (min-width: 1000px) and (max-width: 1500px) {
+    .header_position {
+        padding-right: 60px;
+    }
+}
+@media (min-width: 1500px) {
+    .header_position {
+        margin-right: 235px;
+    }
+}
+
+.header_logo {
+    position: relative;
+    top: -11px;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-image: url('https://kata-react-aviasales.dev.m1w.ru/static/media/globe.7f99fbbae5d61448eba65d2cc3f80d44.svg');
+}
+.logo_glob {
+    position: relative;
+    top: 20px;
+    left: -3px;
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-image: url('https://kata-react-aviasales.dev.m1w.ru/static/media/plane.694b49ceff1942096b4c761b597b6d75.svg');
+}

@@ -1,0 +1,7 @@
+@media (min-width: 777px) {
+    .main_width {
+        display: flex;
+        max-width: 500px;
+        flex-direction: column;
+    }
+}

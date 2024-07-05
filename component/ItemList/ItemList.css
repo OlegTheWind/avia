@@ -1,0 +1,57 @@
+.Card_position {
+    display: grid;
+    margin: 10px 0 10px 0;
+}
+.Card_price {
+    font-size: 24px;
+    color: #2196f3;
+    margin: 5px 0 5px 0;
+}
+.Card_header {
+    display: flex;
+    justify-content: space-between;
+}
+.Card_body {
+    display: flex;
+    align-items: center;
+}
+.body_flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 33%;
+}
+.Card_duration {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    color: #a0b0b9;
+    align-items: center;
+}
+.Card_duration_black {
+    color: black;
+}
+.Card_stops {
+    display: flex;
+    width: 33%;
+    justify-content: center;
+    align-items: flex-end;
+    height: 25px;
+    flex-direction: column;
+    color: #a0b0b9;
+}
+.Card_stops_black {
+    color: black;
+}
+.Card_origin {
+    color: #a0b0b9;
+}
+.Card_date {
+    margin: 2px;
+    color: black;
+}
+.button_bottom {
+    width: 100%;
+}
+.button_flex {
+    display: flex;
+}
